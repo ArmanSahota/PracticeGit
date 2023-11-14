@@ -155,7 +155,7 @@ And that's what it takes to use Termianl To Commit and Push your repo online.
 #### Your `save, add, commit, push` Workflow
 
 Type your favorite color below:
-> What's your favorite color: Replace this text
+> What's your favorite color: Blue
 Then save.
 
 Now do the following in terminal, one command at a time
@@ -244,7 +244,7 @@ Now any commits we make will be saved to our, `MyNewBranch` branch, not to main.
 
 - Main Branch
 Test it out:
-> What is todays date? : 11/4/23
+> What is todays date? : 11/13/23
 
 And do our standard commit workflow.
 ```
